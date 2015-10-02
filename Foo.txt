@@ -1,0 +1,3 @@
+Maybe git show?
+
+It gives you the commit sha, the author, the comment and a complete diff of that commit. If you need you can also specify multiple changeset using this syntax.
